@@ -6,5 +6,6 @@ event_inherited();
 
 activate_button = function() 
 {
-	room_restart();
+	//room_restart();
+	room_goto(r_test);
 }

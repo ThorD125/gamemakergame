@@ -1,4 +1,4 @@
-# unknown platformer
+# unknown platformer       
 
 ## character
 character counters {power up coins, jump amount, gold}
@@ -13,6 +13,7 @@ platform'er movement
 - a/d basic left/right
 - space jump
 - w/s basic up/down ladder
+- gliding
 
 ## cohort
 you, the character have a cohort
